@@ -1,0 +1,119 @@
+:host { 
+  display: contents; 
+}
+.banner-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.banner-banner {
+  width: 100%;
+  height: 215px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.banner-iconbannerbackground {
+  top: 0px;
+  left: 0px;
+  width: 1920px;
+  height: 215px;
+  position: absolute;
+}
+.banner-iconbanner3 {
+  top: 57px;
+  left: 1380px;
+  width: 159px;
+  height: 102px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.banner-iconbanner3icon {
+  top: 0px;
+  left: 55px;
+  width: 49px;
+  height: 53px;
+  position: absolute;
+}
+.banner-text {
+  top: 74px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.banner-iconbanner2 {
+  top: 66px;
+  left: 781px;
+  width: 313px;
+  height: 87px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.banner-iconbanner2icon {
+  top: 0px;
+  left: 122px;
+  width: 70px;
+  height: 44px;
+  position: absolute;
+}
+.banner-text2 {
+  top: 59px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.banner-iconbanner1 {
+  top: 54px;
+  left: 190px;
+  width: 289px;
+  height: 133px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.banner-iconbanner1icon {
+  top: 0px;
+  left: 123px;
+  width: 43px;
+  height: 55px;
+  position: absolute;
+}
+.banner-text4 {
+  top: 77px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
